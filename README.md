@@ -1,2 +1,3 @@
-# basic-js-project-1
-A basic Javascript Project which changes color when you tap the button
+# Change Background Color
+A basic Javascript Project which changes background color of website when you tap the button.
+
